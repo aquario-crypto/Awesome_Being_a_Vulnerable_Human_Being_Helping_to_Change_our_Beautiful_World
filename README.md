@@ -38,9 +38,12 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [SRF Meditation message on "Finding a unity deeper than race, color, or creed"](https://yogananda.org/blog/finding-a-unity-deeper-than-race-color-or-creed).
 
 
-## Uncouncious Bias
+## Unconscious Bias
 
 * [Unconscious Bias @ Work | Google Ventures](https://www.youtube.com/watch?v=nLjFTHTgEVU).
+* [How to combat unconscious bias as an individual](https://www.catalyst.org/research/infographic-how-to-combat-unconscious-bias-as-an-individual/).
+* [Parable of the polygons](https://ncase.me/polygons/).
+* [11 Harmful Types of Unconscious Bias and How to Interrupt Them](https://www.catalyst.org/2020/01/02/interrupt-unconscious-bias/).
 
 
 ## At the Workplace
@@ -49,6 +52,9 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Allyship - The Key To Unlocking The Power Of Diversity](https://www.forbes.com/sites/shereeatcheson/2018/11/30/allyship-the-key-to-unlocking-the-power-of-diversity/#2a0475af49c6).
 * [Speaking up without tearing down](https://www.tolerance.org/magazine/spring-2019/speaking-up-without-tearing-down).
 * [How can technology leaders be better allies for diversity?](https://medium.com/@robert.munro/how-can-technology-leaders-be-better-allies-for-diversity-c035d9d42395).
+* [Seven Practical ways to reduce bias in your hiring process](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/7-practical-ways-to-reduce-bias-in-your-hiring-process.aspx).
+* [Hiring Diverse Candidates Is Not Enough -- It's About Keeping Them](https://www.forbes.com/sites/maynardwebb/2017/10/30/hiring-diverse-candidates-is-not-enough-its-about-keeping-them/#496a387e5b7c).
+* [An Incomplete Guide to Inclusive Language for Startups and Tech](https://buffer.com/resources/inclusive-language-tech/).
 
 
 ## Resources
