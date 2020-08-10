@@ -1,5 +1,9 @@
 # Awesome Being a Vulnerable Human Being Helping to Change our Beautiful World
 
+  <p align="center">
+<img src="https://github.com/bt3gl/Awesome_Being_a_Vulnerable_Human_Being_Helping_to_Change_our_Beautiful_World/blob/master/bill.png" width="100%" align="center" style="padding:1px;border:1px solid black;"   title="An aerial view from the Venice Skatepark, slightly edited with Photoshop. 😉"/>
+</p>
+
 Could we all hold hands and work the way we can to change reality? We are humans, not bots.
 
 
